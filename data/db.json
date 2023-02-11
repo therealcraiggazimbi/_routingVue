@@ -1,0 +1,8 @@
+{
+  "jobs": [
+    { "title": "UX Designer", "id": 1, "details": "lorem" },
+    { "title": "Ethical Hacker", "id": 2, "details": "lorem" },
+    { "title": "IOS Developer", "id": 3, "details": "lorem" },
+    { "title": "Fullstack Developer", "id": 4, "details": "lorem" }
+  ]
+}
